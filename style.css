@@ -273,3 +273,10 @@ main {
         height: 90px;
     }
 }
+
+@media screen and (min-width:1920px) {
+    .share-box {
+        margin-top: 50px;
+        margin-left: 550px;
+    }
+}
