@@ -42,6 +42,7 @@ main {
 .image img {
     width: 380px;
     min-height: 320px;
+    border-radius: 18px;
 }
 
 .intro {
@@ -53,7 +54,6 @@ main {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    overflow: hidden;
     margin: -0.3rem auto 0;
 }
 
